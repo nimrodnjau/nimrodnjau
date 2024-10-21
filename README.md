@@ -19,7 +19,7 @@ I am a Full Stack Software Developer with a passion for coding, creating high-pe
 - VS Code
 - Figma
 - Postman
-- Tunderclient
+- Thunderclient
 
 # ⚡ What I'm currently learning
 1. PHP/Laravel
