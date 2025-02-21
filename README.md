@@ -22,8 +22,7 @@ I am a Full Stack Software Developer with a passion for coding, creating high-pe
 - Thunderclient
 
 # ⚡ What I'm currently learning
-1. PHP/Laravel
-2. Angular
+1. Rust
 
 
 # 💞️ I’m looking to collaborate on:
